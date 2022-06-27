@@ -1,2 +1,2 @@
 # drum-kit-basic
-A digital drum-kit thats basic and beautiful.
+A digital drum-kit that's basic and beautiful.
